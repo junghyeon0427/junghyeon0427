@@ -1,16 +1,25 @@
-### Hi there 👋
+### Research Interest
+- 3D Computer Vision
+- Domain Adaptation/Generalization
+- Generative Models
+- Multimodal Learning
 
-<!--
-**junghyeon0427/junghyeon0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+- Kookmin University College of Computer Science (2018.02 ~ )
 
-Here are some ideas to get you started:
+### Experience
+- Undergraduate Research Student at Machine Intelligence Lab, Kookmin University (2022.01 ~ 2023.06)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Language : Python, C/C++
+- Framework : PyTorch, TensorFlow ,Django
+- Cloud/Database : AWS, Dokcer, MySQL
+- OS : Mac, Linux
+- Communication Tools : Slack, GitHub, Notion
+
+### Project
+- DITTO: Drone Is Tracking Twenty-four Ours (2023.01 ~ 2023.06)
+
+### Teaching Experience
+- Computer Programming I Teaching Assistant (2023.03 ~ 2023.06)
+
