@@ -19,6 +19,7 @@
 
 ### Project 🍄
 - DITTO: Drone Is Tracking Twenty-four Ours (2023.01 ~ 2023.06)
+- Long Time Series Forecasting with univariate data (2023.03 ~ 2023.06)
 
 ### Award 🧸
 - 3rd prize - Kookmin University Capstone Design Conference 2023
