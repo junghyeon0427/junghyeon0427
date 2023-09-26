@@ -1,6 +1,7 @@
 ### Research Interest 👻
-- 3D Computer Vision
-- Domain Adaptation/Generalization
+- Representation Learning
+- Transfer Learning
+- Domain Adaptation / Generalization
 - Generative Models
 - Multimodal Learning
 
@@ -25,3 +26,4 @@
   
 ### Teaching Experience 🍺
 - Computer Programming I Teaching Assistant (2023.03 ~ 2023.06)
+- Computer Programming II Teaching Assistant (2023.09 ~ 2023.12)
