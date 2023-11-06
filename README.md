@@ -9,6 +9,7 @@
 - Kookmin University College of Computer Science (2018.02 ~ )
 
 ### Experience 🤖
+- Research Intern at Computer Vision Lab, Korea University (2023.07 ~ 2023.09)
 - Undergraduate Research Student at Machine Intelligence Lab, Kookmin University (2022.01 ~ 2023.06)
 
 ### Tech Stack 🦑
@@ -19,11 +20,12 @@
 - Communication Tools : Slack, GitHub, Notion
 
 ### Project 🍄
+- 3D Animation Reconstruction - Korea Creative Content Agency (KOCCA) (2023.07 ~ 2023.09)
 - DITTO: Drone Is Tracking Twenty-four Ours (2023.01 ~ 2023.06)
 
 ### Award 🧸
 - 3rd prize - Kookmin University Capstone Design Conference 2023
   
 ### Teaching Experience 🍺
-- Computer Programming I Teaching Assistant (2023.03 ~ 2023.06)
 - Computer Programming II Teaching Assistant (2023.09 ~ 2023.12)
+- Computer Programming I Teaching Assistant (2023.03 ~ 2023.06)
