@@ -1,6 +1,6 @@
 ### Research Interest
 - Transfer Learning
 - Autonomous Driving
-- Multimodal Learning
+- Multi-modal Learning
 - Domain Adaptation / Generalization
 - Parameter Efficient Fine-tuning
