@@ -37,7 +37,7 @@ Fine-tuning LLM for Korean OpenQA tasks
 ## Teaching Assistant
 - Computer Programming I, 2023.03 ~ 2023.06  
 - Computer Programming II, 2023.09 ~ 2023.12  
-- Doosan Robotics ROKEY BOOT CAMP 2024.07 ~ 2024.09
+- Doosan Robotics ROKEY BOOT CAMP, 2024.07 ~ 2024.09
 
 ## Reviewer Service  
 - 2024 : CVPR, BMVC, ICPR
