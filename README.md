@@ -21,9 +21,6 @@ MDPI Sensors, May 2024
 - Domain Generalization in Semantic Segmentation using CLIP Style Prompts ([Paper Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862149))   
 **Junghyeon Seo**, Sungsik Kim, Seungheon Song, and Jaekoo Lee  
 KCC, Jun 2024
-- MRPO: Multi-modal Read-only Prompt Optimization for Few-shot Learning ([Paper Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737019))   
-**Junghyeon Seo**, and Jaekoo Lee  
-KICS, Jan 2024
   
 ## Awards
 - 2023 Kookmin University Capstone Design Awards   
