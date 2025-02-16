@@ -22,6 +22,10 @@ MDPI Sensors, May 2024
 **Junghyeon Seo**, Sungsik Kim, Seungheon Song, and Jaekoo Lee  
 KCC, Jun 2024
   
+- Toward Robust Camera-based 3D Occupancy Prediction via Normalization Perturbation  
+**Junghyeon Seo**, Seungheon Song, and Jaekoo Lee  
+IPIU, Feb 2025  
+  
 ## Awards
 - 2023 Kookmin University Capstone Design Awards   
 DITTO: Drone Is Tracking Twenty-four-seven Ours  
@@ -38,3 +42,4 @@ Fine-tuning LLM for Korean OpenQA tasks
 
 ## Reviewer Service  
 - 2024 : CVPR, BMVC, ICPR
+- 2025 : CVPR
