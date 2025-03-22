@@ -19,7 +19,7 @@ Daehee Kim, Sungmin Lee, **Junghyeon Seo**, Song Noh, and Jaekoo Lee
 MDPI Sensors, May 2024
 
 ### Domsetic Conference
-- Toward Robust Camera-based 3D Occupancy Prediction via Normalization Perturbation  
+- Toward Robust Camera-based 3D Occupancy Prediction via Normalization Perturbation ([Paper Link](https://github.com/junghyeon0427/Toward-Robust-Camera-based-3D-Occupancy-Prediction-via-Normalization-Perturbation/blob/main/IPIU2025.pdf))    
 **Junghyeon Seo**, Seungheon Song, and Jaekoo Lee  
 IPIU, Feb. 2025
 
