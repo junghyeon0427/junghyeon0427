@@ -1,11 +1,10 @@
 ## Research Interests
 - Deep Learning for Visual Perception
 - Transfer Learning
-- Autonomous Driving
-- 3D Computer Vision
 - Multi-modal Learning
-- Domain Adaptation / Generalization
-- Parameter Efficient Fine-tuning
+- 3D Computer Vision
+- Large Language Models
+- Parameter Efficient Fine-tuning(PEFT)
 
 ## Publications
 ### International Conference
@@ -32,19 +31,23 @@ KCC, Jun. 2024
 KICS, Feb. 2024
   
 ## Awards
-- VAIV x KIISE LLM Contest (KCC 2024)  
+- 2025 IPIU Best Paper Awards  
+Encouragement Prize  
+  
+- VAIV x KIISE Generative AI Contest  
 Fine-tuning LLM for Korean OpenQA tasks  
-1st Prize  
+Grand Prize  
 
 - 2023 Kookmin University Capstone Design Awards   
 DITTO: Drone Is Tracking Twenty-four-seven Ours  
-3rd Prize
+Third Prize
 
 ## Teaching Assistant
 - Doosan Robotics ROKEY BOOT CAMP, 2024.07 ~ 2024.09  
+- Software Project I, 2024.03 ~ 2024.06   
 - Computer Programming II, 2023.09 ~ 2023.12   
 - Computer Programming I, 2023.03 ~ 2023.06   
 
 ## Reviewer Service  
-- 2025 : CVPR, IROS  
+- 2025 : CVPR  
 - 2024 : CVPR, BMVC, ICPR
